@@ -14,7 +14,7 @@ function ProjectDisplay() {
         <p>
            <b>Skills:</b>{project.skills}
         </p>
-        <GitHubIcon />
+        <a href='https://github.com/MannemSaivarun' target='_blank'><GitHubIcon /></a>
     </div>
   );
 }

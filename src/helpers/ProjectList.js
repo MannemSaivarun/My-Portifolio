@@ -1,6 +1,6 @@
 import Proj1 from "../assets/proj1.jpg";
 import Proj2 from "../assets/proj2.jpg";
-import Proj3 from "../assets/proj3.webp";
+import Proj3 from "../assets/proj3.jpg";
 import Proj4 from "../assets/proj4.webp";
 import Proj5 from "../assets/proj5.jpg";
 import Proj6 from "../assets/proj6.png";
@@ -13,7 +13,7 @@ export const ProjectList = [
         skills:"JavaScript, HTML, CSS",
     },
     {
-        name:"Calculator",
+        name:"Simple Stop Watch",
         image:Proj2,
         skills:"JavaScript, HTML, CSS",
     },
@@ -23,9 +23,9 @@ export const ProjectList = [
         skills:"JavaScript, HTML, CSS",
     },
     {
-        name:"Filterable-Gallery",
+        name:"Marvel-API",
         image:Proj4,
-        skills:"JavaScript, HTML, CSS",
+        skills:"JavaScript, HTML, CSS, Marvel API",
     },
     {
         name:"React-Calculator",
@@ -33,9 +33,9 @@ export const ProjectList = [
         skills:"React, JavaScript, HTML, CSS",
     },
     {
-        name:"Marvel-API",
+        name:"Filterable-Gallery",
         image:Proj6,
-        skills:"JavaScript, HTML, CSS, Marvel API",
+        skills:"JavaScript, HTML, CSS",
     },
 
 ];

@@ -9,8 +9,8 @@ function Footer() {
   return (
     <div className="footer">
         <div className='socialMedia'> 
-            <LinkedInIcon />
-            <GitHubIcon />
+          <a href='https://www.linkedin.com/in/mannem-sai-varun/' target='_blank'><LinkedInIcon /></a>
+          <a href='https://github.com/MannemSaivarun' target='_blank'><GitHubIcon /></a>
             <InstagramIcon />
             <TwitterIcon />
         </div>
